@@ -12,7 +12,7 @@ y = y + 1;
   z = z + 1;
   }
 else {
-cout << "the number " << x << " is not a prime number";
+x = x + 1;
   }
 }
   if (z = x - 1 && y = x - 1) {
